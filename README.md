@@ -14,4 +14,4 @@ Here is what it really looks like
 
 Keep in mind that the finished PCB would be way different.
 One issue I found was clicking a button isn't convenient, so we added a switch instead!
-![alt text](c9b3c983db084aea854135f2e58ac9ee_T.png)
+![alt text](pictures/c9b3c983db084aea854135f2e58ac9ee_T.png)
